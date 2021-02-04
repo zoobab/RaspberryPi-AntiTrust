@@ -5,7 +5,7 @@ https://gitlab.com/FossPrime/raspberrypi-antitrust/
 A playbook to make SBC's in the maker community more accessible.
 
 **Why?**
-- They as a charity, reliquished control of all system updates, of their primary product, to a foreign third-party company
+- They as a charity, relinquished control of all system updates, of their primary product, to a foreign third-party company
   - that coincidentally paid them over $500,000 euros last year.
 - They did so without announcement or user consent, going as far as to silence whisle blowers
 - They secretly ousted corporate whistle-blowers
