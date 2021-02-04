@@ -1,6 +1,7 @@
 # RaspberryPi-antitrust
 
 https://gitlab.com/FossPrime/raspberrypi-antitrust/
+Mirror: github.com/rayfoss/RaspberryPi-AntiTrust
 
 A playbook to make SBC's in the maker community more accessible.
 
