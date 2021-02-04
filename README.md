@@ -11,6 +11,7 @@ A playbook to make SBC's in the maker community more accessible.
 - They did so without announcement or user consent, going as far as to silence whisle blowers
 - They secretly ousted corporate whistle-blowers
 - They took no community input in that decision
+Repositories are hierarchical, software hosted on MS's repo is taking precedent... MS can replace OpenSSH, OpenSSL, the Linux Kernel at any point during daily security updates.
 
 # Playbook
 
