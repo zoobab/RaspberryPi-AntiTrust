@@ -1,6 +1,9 @@
 # RaspberryPi-antitrust
 
-A playbook.
+https://gitlab.com/FossPrime/raspberrypi-antitrust/
+
+A playbook to make SBC's in the maker community more accessible.
+
 
 
 - [ ] Rename to UK SBC
